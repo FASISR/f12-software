@@ -230,3 +230,15 @@ footer{
 
     color: #00c3ff;
 }
+
+.card-title {
+  font-size: 1.4rem;   /* más grande que el contenido */
+  font-weight: 700;    /* negrita para resaltar */
+  margin-bottom: 10px; /* espacio debajo del título */
+}
+
+.card-text {
+  font-size: 1rem;     /* más pequeño que el título */
+  color: #6c757d;      /* tono gris para diferenciar */
+}
+
