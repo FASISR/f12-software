@@ -242,3 +242,24 @@ footer{
   color: #6c757d;      /* tono gris para diferenciar */
 }
 
+#portafolio .card h5{
+
+    font-size:1.6rem;
+
+    font-weight:700;
+
+    color:#0f172a;
+
+    margin-bottom:15px;
+
+}
+
+#portafolio .card p{
+
+    font-size:1rem;
+
+    color:#64748b;
+
+    line-height:1.7;
+
+}
