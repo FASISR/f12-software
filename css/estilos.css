@@ -7,13 +7,13 @@ body{
 }
 
 .hero{
-    min-height:90vh;
+    min-height:85vh;
     display:flex;
     align-items:center;
     background:linear-gradient(
-    135deg,
-    #0f172a,
-    #1e293b
+        135deg,
+        #081120,
+        #15284d
     );
     color:white;
 }
@@ -44,7 +44,7 @@ footer{
 }
 
 .hero-logo{
-    max-width: 450px;
-    width: 100%;
-    height: auto;
+    max-width:400px;
+    width:100%;
+    height:auto;
 }
