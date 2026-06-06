@@ -42,3 +42,8 @@ footer{
     text-align:center;
     padding:20px;
 }
+.hero-logo{
+    max-width: 450px;
+    width: 100%;
+    height: auto;
+}
