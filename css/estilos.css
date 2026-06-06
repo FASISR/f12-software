@@ -1,11 +1,44 @@
+html{
+    scroll-behavior:smooth;
+}
+
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:Segoe UI, sans-serif;
 }
 
-.navbar-brand{
-    font-size: 1.4rem;
+.hero{
+    min-height:90vh;
+    display:flex;
+    align-items:center;
+    background:linear-gradient(
+    135deg,
+    #0f172a,
+    #1e293b
+    );
+    color:white;
 }
 
-h1{
-    color:#0F172A;
+.hero img{
+    max-height:450px;
+}
+
+.card{
+    transition:.3s;
+}
+
+.card:hover{
+    transform:translateY(-8px);
+}
+
+.contacto{
+    background:#0f172a;
+    color:white;
+    padding:80px 0;
+}
+
+footer{
+    background:black;
+    color:white;
+    text-align:center;
+    padding:20px;
 }
